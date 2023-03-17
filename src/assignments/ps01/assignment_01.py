@@ -10,3 +10,6 @@ if m % a != 0:
     col += 1
 
 print(row * col)
+
+
+
